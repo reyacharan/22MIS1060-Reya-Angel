@@ -25,3 +25,7 @@ python
 
 # CODE
 ![image](https://github.com/user-attachments/assets/3c425e81-ea97-4189-944e-148a48fe1896)
+
+# OUTPUT
+![Screenshot 2024-09-29 180032](https://github.com/user-attachments/assets/343451a4-c2af-4625-8209-790f4377df38)
+
