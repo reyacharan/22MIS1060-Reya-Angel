@@ -22,3 +22,6 @@ The dataset is in CSV format and can be downloaded from here.
 Google colab
 
 python
+
+# CODE
+![image](https://github.com/user-attachments/assets/3c425e81-ea97-4189-944e-148a48fe1896)
