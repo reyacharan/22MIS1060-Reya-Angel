@@ -9,6 +9,6 @@ MPAA Rating: The rating assigned to the movie (e.g., G, PG, PG-13, R).
 Total Gross: The total gross earnings of the movie.
 Inflation Adjusted Gross: The total gross adjusted for inflation.
 The dataset is in CSV format and can be downloaded from here.
-Software Requirements
+# Software Requirements
 Google colab
 python
